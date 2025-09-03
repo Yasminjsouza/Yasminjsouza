@@ -1,16 +1,21 @@
-## Hi there 
+# Sobre Mim
 
-<!--
-**Yasminjsouza/Yasminjsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, meu nome é **Yasmin**, tenho **17 anos** e estou cursando o último ano do **Ensino Médio**, além do curso técnico de **Informática** no **Senac Tatuapé**.  
 
-Here are some ideas to get you started:
+Este repositório foi criado para reunir informações sobre mim.
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Formação
+- Ensino Médio – em andamento (último ano)  
+- Curso Técnico em Informática – em andamento (Senac Tatuapé)  
+
+---
+
+## Contato
+- **E-mail:** yasminj631@gmail.com  
+- **LinkedIn:** jesusyasmin562@gmail.com  
+- **GitHub:** Yasminjsouza  
+
+---
+
+
