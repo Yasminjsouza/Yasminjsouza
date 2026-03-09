@@ -22,7 +22,7 @@ Este repositório foi criado para reunir informações sobre mim.
 
 ## Contato
 - **E-mail:** yasminj631@gmail.com  
-- **LinkedIn:** jesusyasmin562@gmail.com  
+- **LinkedIn:** yasminj631@gmail
 - **GitHub:** Yasminjsouza  
 
 ---
